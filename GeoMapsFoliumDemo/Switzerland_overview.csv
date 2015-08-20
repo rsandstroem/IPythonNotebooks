@@ -1,5 +1,4 @@
 Abbr,Canton,Capital,Population,Area,Density,Municipalities,Official languages,CantonNumber
-ZH,Zürich,Zürich,1421895,1729,701,171,German,1
 BE,Bern,Bern,1001281,5959,158,383,"German, French",2
 LU,Luzern,Luzern,390349,1493,233,87,German,3
 UR,Uri,Altdorf,35865,1077,33,20,German,4
@@ -22,6 +21,4 @@ TG,Thurgau,Frauenfeld,260278,991,229,80,German,20
 TI,Ticino,Bellinzona,346539,2812,110,157,Italian,21
 VD,Vaud,Lausanne,749373,3212,188,339,French,22
 VS,Valais,Sion,327011,5224,53,143,"French, German",23
-NE,Neuchâtel,Neuchâtel,176402,803,206,53,French,24
 GE,Geneva,Geneva,479158,282,1442,45,French,25
-JU,Jura,Delémont,71738,839,82,64,French,26
