@@ -1,0 +1,7 @@
+Title: Building a data lake 1: Weather and time
+Slug: weathertime
+Date: 2016-08-20
+Category: posts
+Tags: python, api, tutorial
+Author: Rikard Sandström
+Summary: Short tutorial on importing weather data and how to deal with time and time zones.
