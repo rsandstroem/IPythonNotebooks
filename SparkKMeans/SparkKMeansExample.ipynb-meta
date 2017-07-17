@@ -1,0 +1,10 @@
+Title: Running KMeans clustering on Spark
+Slug: sparkkmeans
+Date: 2017-07-06
+Category: posts
+Tags: spark, python, kmeans, machine learning, tutorial
+Author: Rikard Sandström
+Summary: In a recent project I was facing the task of running machine learning on about 100 TB of data. This amount of data was exceeding the capacity of my workstation, so I translated the code from running on scikit-learn to Apache Spark using the PySpark API. This allowed me to process that data using in-memory distributed computing.
+
+This blog post is written as an introduction to machine learning on Spark, based on this recent project.
+
