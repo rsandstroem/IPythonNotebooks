@@ -1,0 +1,9 @@
+Title: Which is the most popular language for data science in 2017?
+Slug: rpythonsastrendsdatascience
+Date: 2017-08-20
+Category: posts
+Tags: r, python, sas, data science
+Author: Rikard Sandström
+BokehCSS: https://cdn.pydata.org/bokeh/release/bokeh-0.12.6.min.css
+BokehJS: https://cdn.pydata.org/bokeh/release/bokeh-0.12.6.min.js
+Summary: While performing a market analysis for a business case I looked at some trends in the field, and made a quick query to answer the above question "for fun". Since the result was both striking and rather unexpected I decided to share it with you in this blog post. 
